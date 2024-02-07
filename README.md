@@ -29,15 +29,6 @@ As a VR game developer, I’ve turned my dreams into reality. My expertise in Un
 <a href="https://twitter.com/totokis"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=totokis">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totokis&layout=compact"><p>
