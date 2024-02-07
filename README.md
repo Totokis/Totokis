@@ -3,7 +3,7 @@
 As a VR game developer, I’ve turned my dreams into reality. My expertise in Unity, honed through participation in several game jams, including winning 1st place at HackYeah 2021 and at the Warsaw Copernicus in 2022, has led to a multitude of creative endeavors. Working on a sailing game at MarineVerse, I found myself deeply engaged in the sailing world, a surprising yet exhilarating journey for me. Last year, I completed a sailing course and earned my license, adding a new passion to my life. Now, with a fresh breeze in my hair, I’m on the lookout for new inspirations and challenges, eager to create projects that are just as captivating.
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Unknown Unity Project</p>
+<p>🔭 I'm currently working on Unrevealed Unity Project</p>
 <p>🌱 I'm currently learning Azure, .NET, Web Services</p>
 <p>💬 Ask me about Unity and C#</p>
 <p>📫 How to reach me? pawelj_janusz@wp.pl</p>
