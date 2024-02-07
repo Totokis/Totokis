@@ -8,7 +8,7 @@ As a VR game developer, I’ve turned my dreams into reality. My expertise in Un
 <p>💬 Ask me about Unity and C#</p>
 <p>📫 How to reach me? pawelj_janusz@wp.pl</p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/paweljanusz">here</a></p>
-<p>⚡ Fun Fact: I love good RPG games</p>
+<p>⚡ Fun Fact: I love good RPG games 🎲 </p>
 
 ## 💻 Skills
 <p>
