@@ -7,7 +7,7 @@ As a VR game developer, I’ve turned my dreams into reality. My expertise in Un
 <p>🌱 I'm currently learning Azure, .NET, Web Services</p>
 <p>💬 Ask me about Unity and C#</p>
 <p>📫 How to reach me? pawelj_janusz@wp.pl</p>
-<p>Know about my experiences <a href="www.linkedin.com/in/paweljanusz">here</a></p>
+<p>Know about my experiences <a href="https://www.linkedin.com/in/paweljanusz">here</a></p>
 <p>⚡ Fun Fact: I love good RPG games</p>
 
 ## 💻 Skills
